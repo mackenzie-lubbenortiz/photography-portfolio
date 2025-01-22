@@ -77,7 +77,7 @@ img {
 
 /* header */
 #header {
-background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../../images/2C6A7238.jpg') center/ cover no-repeat fixed;
+background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('assests/images/2C6A7238.jpg') center/ cover no-repeat fixed;
 justify-content: flex-start;
 align-items: flex-end;
 }
